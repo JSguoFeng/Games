@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cplus\\OpenglLearn\\OpenGL_One\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57146E91-D4AE-41AF-AB88-45DF7240884B}|OpenGL_One.vcxproj|D:\\Cplus\\OpenglLearn\\OpenGL_One\\OpenGL_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57146E91-D4AE-41AF-AB88-45DF7240884B}|OpenGL_One.vcxproj|solutionrelative:OpenGL_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenGL_main.cpp",
+              "DocumentMoniker": "D:\\Cplus\\OpenglLearn\\OpenGL_One\\OpenGL_main.cpp",
+              "RelativeDocumentMoniker": "OpenGL_main.cpp",
+              "ToolTip": "D:\\Cplus\\OpenglLearn\\OpenGL_One\\OpenGL_main.cpp*",
+              "RelativeToolTip": "OpenGL_main.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-15T09:05:58.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

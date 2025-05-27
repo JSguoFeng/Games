@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cplus\\OpenglLearn\\CubeTetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB3BE70-E8C4-4731-84A4-633987DBD776}|CubeTetris.vcxproj|D:\\Cplus\\OpenglLearn\\CubeTetris\\Cube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CB3BE70-E8C4-4731-84A4-633987DBD776}|CubeTetris.vcxproj|solutionrelative:Cube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cube.cpp",
+              "DocumentMoniker": "D:\\Cplus\\OpenglLearn\\CubeTetris\\Cube.cpp",
+              "RelativeDocumentMoniker": "Cube.cpp",
+              "ToolTip": "D:\\Cplus\\OpenglLearn\\CubeTetris\\Cube.cpp",
+              "RelativeToolTip": "Cube.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T02:01:01.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
